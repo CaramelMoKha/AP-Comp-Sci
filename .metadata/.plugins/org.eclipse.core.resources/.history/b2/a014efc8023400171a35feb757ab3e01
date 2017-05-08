@@ -11,7 +11,7 @@ public class Snek extends JPanel
 	
 	private long score;
 	private Color[][] well;
-	private Color[][] snek;
+	private int snek;
 	
 	// Creates a border around the screen
 	private void screen() 
@@ -29,7 +29,7 @@ public class Snek extends JPanel
 		}
 	}
 
-	public void paintScreen(Graphics g)
+	public void paintComponent(Graphics g)
 	{
 		// Paint the well
 		g.fillRect(0, 0, 26*40, 26*39);
@@ -47,14 +47,9 @@ public class Snek extends JPanel
 		g.drawString("" + score, 30, 25);
 	}
 	
-	public void snek()
+	public void extendSnek()
 	{
-		snek = new Color[1][1];
-	}
-	
-	public void paintSnek(Graphics g)
-	{
-		g.fillRect()
+		snek ++;
 	}
 
 	public static void main(String[] args) 
