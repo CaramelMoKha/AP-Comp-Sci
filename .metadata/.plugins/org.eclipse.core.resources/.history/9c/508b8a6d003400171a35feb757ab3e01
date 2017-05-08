@@ -62,8 +62,6 @@ public class Snek extends JPanel
 		final Snek game = new Snek();
 		game.screen();
 		f.add(game);
-		
-		hgj
 
 	}
 }
