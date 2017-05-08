@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit 'Anogram.java' to 'Anagram.java'&#13;&#10;- Original project: 'Topic 3 - Standard Classes'&#13;&#10;- Original element: 'Anogram.java'&#13;&#10;- Renamed element: 'Anagram.java'" description="Rename compilation unit 'Anogram.java'" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Anogram.java" name="Anagram.java" references="false" stamp="1478880879855" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<session version="1.0">
+<refactoring comment="Move 1 elements(s) to 'Topic 2 - Methods/src/(default package)'&#13;&#10;- Original project: 'Topic 1 - Java Basics'&#13;&#10;- Destination element: 'Topic 2 - Methods/src/(default package)'&#13;&#10;- Original element: 'SpotDixie.java'&#13;&#10;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;" element1="/src&lt;{SpotDixie.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1477320686169" units="1" version="1.0"/>
+</session>

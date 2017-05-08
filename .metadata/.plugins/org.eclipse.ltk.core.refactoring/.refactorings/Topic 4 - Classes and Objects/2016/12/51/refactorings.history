@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<session version="1.0">
+<refactoring comment="Move 1 elements(s) to 'Topic 4 - Classes and Objects/src'&#13;&#10;- Original project: 'Topic 4 - Classes and Objects'&#13;&#10;- Destination element: 'Topic 4 - Classes and Objects/src'&#13;&#10;- Original element: 'flight.txt'" description="Move file" destination="/src" element1="flight.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1481558855805" units="0" version="1.0"/>
+<refactoring comment="Move 1 elements(s) to 'Topic 4 - Classes and Objects'&#13;&#10;- Original project: 'Topic 4 - Classes and Objects'&#13;&#10;- Destination element: 'Topic 4 - Classes and Objects'&#13;&#10;- Original element: 'flight.txt'" description="Move file" destination="=Topic 4 - Classes and Objects" element1="src/flight.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1481558866616" units="0" version="1.0"/>
+</session>
